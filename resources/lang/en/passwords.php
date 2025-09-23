@@ -19,4 +19,11 @@ return [
     'throttled' => 'Vui lòng đợi trước khi thử lại.',
     'token' => 'Token đặt lại mật khẩu không hợp lệ.',
     'user' => "Chúng tôi không tìm thấy người dùng với địa chỉ email này.",
+
+    'reset' => 'Your password has been reset!',
+    'sent' => 'We have emailed your password reset link!',
+    'throttled' => 'Please wait before retrying.',
+    'token' => 'This password reset token is invalid.',
+    'user' => "We can't find a user with that email address.",
+
 ];
